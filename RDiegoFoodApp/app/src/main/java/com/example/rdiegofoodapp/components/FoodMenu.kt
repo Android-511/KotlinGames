@@ -44,7 +44,7 @@ val FoodMenuList = listOf(
     ),
     FoodMenu(
         id = 5,
-        title = "Fried Chicken",
+        title = "Chicken Nuggets",
         image = "https://i.pinimg.com/736x/f8/e0/71/f8e07194f099ea408e87c50ae796cda6.jpg",
         stars = "4.9",
         price =  "$27.4"
